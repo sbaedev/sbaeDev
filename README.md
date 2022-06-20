@@ -5,7 +5,7 @@
 ## 💻 I'm Studying now 💻
 
 `Cloud, Devops, Backend`
-`k8s, Docker, Go, Python`
+`k8s, Docker, Go, Python, Vue.js`
 
 ### ⭐️ I CAN DO THIS ⭐️
 
